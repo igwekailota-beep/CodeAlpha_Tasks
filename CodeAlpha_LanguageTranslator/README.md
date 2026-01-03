@@ -22,6 +22,12 @@ Developed as part of the CodeAlpha Internship program.
 
 ## ⚙️ Installation
 
+### Prerequisites
+
+- Python 3.11. You can download it from [python.org](https://www.python.org/downloads/).
+
+### Steps
+
 Follow these steps to set up the project locally:
 
 1.  **Clone the repository**
@@ -31,16 +37,14 @@ Follow these steps to set up the project locally:
     cd CodeAlpha_LanguageTranslator
     ```
 
-2.  **Create a Virtual Environment (Optional but Recommended)**
+2.  **Create a Virtual Environment**
 
     ```bash
-    # Windows
-    python -m venv venv
-    .\venv\Scripts\activate
+    # Create the virtual environment using Python 3.11
+    py -3.11 -m venv venv
 
-    # Mac/Linux
-    python3 -m venv venv
-    source venv/bin/activate
+    # Activate the virtual environment
+    .\venv\Scripts\activate
     ```
 
 3.  **Install Dependencies**
@@ -54,7 +58,7 @@ Follow these steps to set up the project locally:
 Start the Streamlit server:
 
 ```bash
-streamlit run app.py
+py -3.11 -m streamlit run app.py
 ```
 
 The app will open automatically in your default web browser (usually at `http://localhost:8501`).
