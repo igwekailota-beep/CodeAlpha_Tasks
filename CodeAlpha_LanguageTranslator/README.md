@@ -4,36 +4,25 @@ A robust, real-time language translation app built with Python and Streamlit. Th
 
 Developed as part of the CodeAlpha Internship program.
 
-## 🚀 Live Demo
+## 🚀 Usage
 
-You can access the live application here:
-[https://lingua-flow.streamlit.app/](https://lingua-flow.streamlit.app/)
+There are two ways to use the AI Language Translator:
 
-## ✨ Features
+### 1. Accessing the Live App (Recommended)
 
-*   **Multi-Language Support**: Translates text between 100+ supported languages.
-*   **🎙️ Speech-to-Text (STT)**: Integrated microphone support allowing users to speak input text directly (powered by `streamlit-mic-recorder`).
-*   **🔊 Text-to-Speech (TTS)**: Listen to the pronunciation of translated text (smartly handles unsupported audio languages).
-*   **📋 One-Click Copy**: Built-in code block format for easy copying of translations.
-*   **⚡ Auto-Detection**: Automatically identifies the source language.
-*   **🛡️ Robust Error Handling**: Gracefully handles network interruptions and API limits.
+You can access the live, deployed application directly in your browser without any installation:
 
-## 🛠️ Tech Stack
+[**➡️ Live Demo: https://lingua-flow.streamlit.app/**](https://lingua-flow.streamlit.app/)
 
-*   **Frontend**: Streamlit (Custom CSS & Layouts)
-*   **Translation Engine**: `deep-translator` (Google Translator API)
-*   **Audio Processing**: `gTTS` (Google Text-to-Speech)
-*   **Voice Input**: `streamlit-mic-recorder`
+### 2. Running Locally
 
-## ⚙️ Installation
+If you want to run the application on your own machine, follow these steps:
 
-### Prerequisites
+#### Prerequisites
 
 - Python 3.11. You can download it from [python.org](https://www.python.org/downloads/).
 
-### Steps
-
-Follow these steps to set up the project locally:
+#### Installation and Setup
 
 1.  **Clone the repository**
 
@@ -42,7 +31,7 @@ Follow these steps to set up the project locally:
     cd CodeAlpha_LanguageTranslator
     ```
 
-2.  **Create a Virtual Environment**
+2.  **Create and Activate a Virtual Environment**
 
     ```bash
     # Create the virtual environment using Python 3.11
@@ -58,7 +47,7 @@ Follow these steps to set up the project locally:
     pip install -r requirements.txt
     ```
 
-## 🏃‍♂️ How to Run
+#### How to Run
 
 Start the Streamlit server:
 
