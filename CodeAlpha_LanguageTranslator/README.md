@@ -83,6 +83,7 @@ The app will open automatically in your default web browser (usually at `http://
 
 *   **Network Dependency**: The app requires an active internet connection to reach Google's servers.
 *   **Audio Support**: While translation works for 100+ languages, audio playback (TTS) is limited to languages supported by Google's voice engine. The app detects this and alerts the user if audio is unavailable for a specific language.
+*   **Speech-to-Text Latency**: The voice input feature processes audio after the user has finished speaking. The time it takes to display the transcribed text depends on the length of the audio and network speed, which may result in a noticeable delay.
 
 ## 🤝 Acknowledgments
 
