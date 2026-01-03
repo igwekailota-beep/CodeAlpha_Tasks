@@ -4,7 +4,12 @@ A robust, real-time language translation app built with Python and Streamlit. Th
 
 Developed as part of the CodeAlpha Internship program.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+You can access the live application here:
+[https://lingua-flow.streamlit.app/](https://lingua-flow.streamlit.app/)
+
+## ✨ Features
 
 *   **Multi-Language Support**: Translates text between 100+ supported languages.
 *   **🎙️ Speech-to-Text (STT)**: Integrated microphone support allowing users to speak input text directly (powered by `streamlit-mic-recorder`).
