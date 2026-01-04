@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "How do I register for courses?",
+      "answer": "You can register for courses through the university's online portal. Registration dates are announced at the beginning of each semester. Make sure to check the academic calendar for deadlines."
+    },
+    {
+      "question": "Where is the library?",
+      "answer": "The main library is located in the central campus, next to the student union building. You can find a campus map on the university website."
+    },
+    {
+      "question": "What are the library's hours?",
+      "answer": "The library is open from 8 AM to 11 PM on weekdays and 10 AM to 8 PM on weekends. Hours may vary during holidays and exam periods."
+    },
+    {
+      "question": "How can I contact the IT help desk?",
+      "answer": "You can contact the IT help desk by phone at 123-456-7890 or by email at ithelp@university.edu. They are located in the basement of the science building."
+    },
+    {
+      "question": "What student clubs are available?",
+      "answer": "There are over 100 student clubs and organizations on campus, ranging from academic clubs to sports and cultural groups. You can find a full list on the student life section of the university website."
+    },
+    {
+      "question": "How do I apply for financial aid?",
+      "answer": "The financial aid office is the best place to start. You can find application forms and information about scholarships and loans on their webpage. The deadline to apply is typically March 1st."
+    },
+    {
+      "question": "Where can I find the academic calendar?",
+      "answer": "The academic calendar is available on the university's official website. It lists all important dates, including semester start and end dates, holidays, and registration deadlines."
+    },
+    {
+      "question": "What are the admission requirements for new students?",
+      "answer": "Admission requirements vary by program. Generally, you will need to submit your high school transcripts, standardized test scores (like SAT or ACT), letters of recommendation, and a personal essay. Please check the admissions page for specific details for your desired program."
+    },
+    {
+      "question": "Where is the university bookstore?",
+      "answer": "The university bookstore is located on the ground floor of the student union building. You can buy textbooks, university merchandise, and school supplies there."
+    },
+    {
+      "question": "How do I get a student ID card?",
+      "answer": "You can get your student ID card at the Student Services office. You will need to provide a valid photo ID and proof of enrollment. The first card is free, but a replacement fee applies if you lose it."
+    },
+    {
+      "question": "What dining options are available on campus?",
+      "answer": "There are several dining halls and cafes on campus offering a variety of food options. You can find a list of locations, menus, and hours on the Dining Services website. Meal plans are available for students living in dorms."
+    }
+  ]
+}
